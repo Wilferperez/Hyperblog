@@ -10,7 +10,7 @@ padding: 0;
 }
 #cabecera
 {
-    background: indigo;
+    background: rgb(248, 23, 199);
     box-shadow: 0px 2px 20px 0px rgba(0,0,0,0.5);
     color: white;
     font-weight: bold;
