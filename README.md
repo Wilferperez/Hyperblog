@@ -11,6 +11,6 @@ Un blog increíble para el[ curso de Git y Github](https://platzi.com/cursos/git
 * Las personalidades múltiples de Freddy
 * creado por wilfer perez 
 * aplicando lo que he aprendido en platzi del curso git y github 
-* que esta disponible para todas las edades
+* que esta disponible para todas las edades que quieran aprender
 
 Y como un amable recordatorio: **Este readme.md es un chiste**.  Diseñado para el ejemplo. Si llegas acá NO TE LO TOMES EN SERIO y mejor ve [**a ver el curso**](https://platzi.com/cursos/git-github/ "a ver el curso").
